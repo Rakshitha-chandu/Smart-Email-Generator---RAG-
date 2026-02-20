@@ -173,6 +173,14 @@ rag-referral-email-generator/
 ```
 
 ---
+## System UI
+
+### Main Interface
+![Main UI](app/ui_main.png)
+
+
+### Generated Email Output
+![Email Output](app/email_output.png)
 
 ## Setup Instructions
 
